@@ -43,3 +43,31 @@ body {
     text-decoration: none;
     border-radius: 5px;
 }
+
+.donate-today {
+    text-align: center;
+}
+
+.donate-today h2 {
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'Inter';
+    margin: 20px;
+}
+
+.donate-today a {
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px 30px;
+    display: inline-block;
+    background-color: #ededed;
+    border-radius: 10px;
+    margin: 30px 10px;
+    border: 2px solid #ededed;
+}
+
+a.special {
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    color: #FF5959;
+}
